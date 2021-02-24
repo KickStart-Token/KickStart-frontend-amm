@@ -27,9 +27,9 @@ const config: MenuEntry[] = [
     href: 'https://kickstart.finance/farms'
   },
   {
-    label: 'Nests',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://kickstart.finance/nests'
+    href: 'https://kickstart.finance/pools'
   },
   // {
   //   label: 'Lottery',
