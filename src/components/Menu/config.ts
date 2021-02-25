@@ -37,6 +37,21 @@ const config: MenuEntry[] = [
   //   href: 'https://www.goosedefi.com/lottery'
   // },
   {
+    label: 'NFT Lottery (Upcoming)',
+    icon: 'TicketIcon',
+    href: 'https://kickstart.finance/upcomming',
+  },
+  {
+    label: 'NFT Factory (Upcoming)',
+    icon: 'NftIcon',
+    href: 'https://kickstart.finance/upcomming',
+  },
+  {
+    label: 'NFT Exchange (Upcoming)',
+    icon: 'TradeIcon',
+    href: 'https://kickstart.finance/upcomming',
+  },
+  {
     label: 'Info',
     icon: 'InfoIcon',
     items: [
@@ -44,14 +59,14 @@ const config: MenuEntry[] = [
         label: 'PancakeSwap',
         href: 'https://pancakeswap.info/token/0x08430Ed03bb44909e3B0C529c541D2fE249b8875',
       },
-      {
-        label: 'CoinGecko',
-        href: 'https://www.coingecko.com/en/coins/',
-      },
-      {
-        label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/',
-      },
+      // {
+      //   label: 'CoinGecko',
+      //   href: 'https://www.coingecko.com/en/coins/',
+      // },
+      // {
+      //   label: 'CoinMarketCap',
+      //   href: 'https://coinmarketcap.com/currencies/',
+      // },
       {
         label: 'AstroTools',
         href: 'https://app.astrotools.io/pancake-pair-explorer/0xa09A2926678075069822F0Abe3Ad93BeC615FB2D',
